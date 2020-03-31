@@ -1,0 +1,14 @@
+{
+  "name": "@flyer/querystring",
+  "version": "0.0.1",
+  "description": "方便处理URL参数的JS类库.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "queryString"
+  ],
+  "author": "Pengfei Zheng",
+  "license": "MIT"
+}
