@@ -10,5 +10,13 @@
     "queryString"
   ],
   "author": "Pengfei Zheng",
-  "license": "MIT"
+  "license": "MIT",
+  "config": {
+    "ghooks": {
+      "commit-msg": "./validate-commit-msg.js"
+    }
+  },
+  "dependencies": {
+    "validate-commit-msg": "^2.14.0"
+  }
 }
